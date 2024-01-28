@@ -2,10 +2,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="150"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/%E5%B2%B3%E5%93%B2-%E8%94%A1-684724274/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://www.instagram.com/ts_julio/">
       <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
@@ -23,7 +23,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a front-end self leaning developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.
+I am a self leaning developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.
 <!---
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
