@@ -11,7 +11,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=DragCk&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hi everyone
+  Hi everyone I'm Julio
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -53,3 +53,30 @@ I am a front-end self leaning developer <img src="https://media.giphy.com/media/
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragCk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DragCk&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### :desktop_computer: My Project :
+Movie planet (MERN project) <a href="https://full-stack-react-movie-app.vercel.app/"> Demo </a> :
+### :point_right: Front end :
+
+   - Create react app
+   - Material UI
+   - SwiperJS
+   - React router v6
+   - Formik
+   - Yup
+   - Axios
+### :point_right: Back end :
+  - Express rest api
+  - Express Validator
+  - Jsonwebtoken
+  - Mongoose
+  - Axios
