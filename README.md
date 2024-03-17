@@ -23,7 +23,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a self leaning developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.
+I am a Front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.
 
 - :telescope: I’m working as a Programming instructor, Instructing various programming languages like JavaScript, Python, HTML, CSS, etc.
 
