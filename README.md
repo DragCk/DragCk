@@ -23,11 +23,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.
+I am a Front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan, currently working at ibears.
 
-- :telescope: I’m working as a Programming instructor, Instructing various programming languages like JavaScript, Python, HTML, CSS, etc.
+- :telescope: I am currently employed as a Frontend Engineer at ibears, focusing on the development of modular React components for cross-project development and reuse. Skilled in designing and implementing React applications with a layered architecture, and experienced with React, Redux, and Redux Observable.
 
-- :zap: In my free time, I enjoy exploring new technologies and creating mini games with JavaScript, such as Flappy Bird and Snake.
+- :zap: In my free time, I work as a programming instructor, teaching various programming languages including JavaScript, Python, HTML, and CSS. I enjoy exploring new technologies and creating mini-games with JavaScript, such as Flappy Bird and Snake.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E5%B2%B3%E5%93%B2-%E8%94%A1-684724274/) 
 
